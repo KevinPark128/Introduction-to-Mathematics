@@ -1,5 +1,5 @@
 # Introduction-to-Mathematics
-## Goal: Make introduction to Mathematics (Analysis for now) rigorous, but intuitive.
+## Goal: Make mathematics intuitive.
 
 ### Preamble: 
 I have been frustrated by how unintuitive math analysis has been. It is easy to get lost in the details and have no idea what it is we are            even talking about and so I want to approach it in a way that introduces the concepts gently.
